@@ -1,2 +1,2 @@
 # calc
-Simple calculator doing add/remove with network api
+Simple calculator doing add and subtract with network api
