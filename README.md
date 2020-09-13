@@ -17,7 +17,7 @@ Uses gorilla/mux
     * /subtract/health
     * all endpoints above with trailing / as well
 
-* Health check:
+* add and subtract:
     * /add?x=NUM&y=NUM
     * /add/?x=NUM&y=NUM
         * x and y are int
