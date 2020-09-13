@@ -1,6 +1,5 @@
 # calc
-Simple calculator doing add and subtract with network api
-
+Simple calculator doing add and subtract with rest endpoints
 ## Notes
 
 * Added calc binary to repo as well.
